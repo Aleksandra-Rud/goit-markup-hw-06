@@ -1004,6 +1004,7 @@ img {
   border: none;
   background-repeat: no-repeat;
   background-position: center;
+  border: transparent;
 }
 
 .modal-form-terms:focus + .modal-form-check-label::before {
